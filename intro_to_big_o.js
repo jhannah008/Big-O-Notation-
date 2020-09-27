@@ -45,6 +45,7 @@ function addUpToo2(n) {
 // Counting operations for addUpToo2 : 1 multiplication 1 addition 1 division = 3 simple operations regardless of the size of n
 
 // Introducing Big O
+//  - Is a way to formalize fuzzy counting.
 //  - It allows us to talk formally about how the runtime of an algorithm grows as the inputs grow
 //  - We won't care about the details, only the trends
 //  - When talking about Big O were talking about it's worst case scenario
